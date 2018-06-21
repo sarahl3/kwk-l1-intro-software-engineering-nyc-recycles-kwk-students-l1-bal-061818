@@ -11,7 +11,7 @@
 #1. Define a method `address`, that takes a hash as an argument.
 #This method should return the value of the address key in the hash.
 def address =
-  {"first_recycling_bin"=>"E 227 St/Bronx River Pkway","second_recylcing_bin"=>"Allerton Ave & Moshulu Pkway",
+  {"first_recycling_bin"=>"E 227 St/Bronx River Pkway","second_recylcing_bin"=>"Allerton Ave & Moshulu Pkway","third_recycle_bin"=>"Arthur Ave & 187 St",
   
   
   }
