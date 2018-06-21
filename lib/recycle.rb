@@ -10,8 +10,9 @@
 
 #1. Define a method `address`, that takes a hash as an argument.
 #This method should return the value of the address key in the hash.
-def address(first_recycle_bin =  {
-  "address"=>"E 227 St/Bronx River Pkway",
+def address =
+  
+  "fir"=>"E 227 St/Bronx River Pkway",
   })
  returns address["address"]
 end
